@@ -1,0 +1,9 @@
+.env
+gsc-oauth-client.json
+gsc-service-account.json
+.gsc-token*.json
+site-code/
+backups/
+__pycache__/
+.DS_Store
+clients/
